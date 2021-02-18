@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reacthero/static/css/main.9ba547d1.chunk.css",
+    "main.js": "/reacthero/static/js/main.a5d4bd45.chunk.js",
+    "main.js.map": "/reacthero/static/js/main.a5d4bd45.chunk.js.map",
+    "runtime-main.js": "/reacthero/static/js/runtime-main.8f373233.js",
+    "runtime-main.js.map": "/reacthero/static/js/runtime-main.8f373233.js.map",
+    "static/js/2.0fa38ca2.chunk.js": "/reacthero/static/js/2.0fa38ca2.chunk.js",
+    "static/js/2.0fa38ca2.chunk.js.map": "/reacthero/static/js/2.0fa38ca2.chunk.js.map",
+    "index.html": "/reacthero/index.html",
+    "static/css/main.9ba547d1.chunk.css.map": "/reacthero/static/css/main.9ba547d1.chunk.css.map",
+    "static/js/2.0fa38ca2.chunk.js.LICENSE.txt": "/reacthero/static/js/2.0fa38ca2.chunk.js.LICENSE.txt",
+    "static/media/banner.css": "/reacthero/static/media/myimage3.d21b9838.jpg",
+    "static/media/shop.css": "/reacthero/static/media/myimage6.2a0f3741.jpg",
+    "static/media/contact.css": "/reacthero/static/media/myimage7.c7114a30.jpg",
+    "static/media/s1.b860d918.jpg": "/reacthero/static/media/s1.b860d918.jpg",
+    "static/media/s2.156d2772.jpg": "/reacthero/static/media/s2.156d2772.jpg",
+    "static/media/s3.65dbc4b2.jpg": "/reacthero/static/media/s3.65dbc4b2.jpg",
+    "static/media/s4.ef20e620.jpg": "/reacthero/static/media/s4.ef20e620.jpg",
+    "static/media/s5.a0c5d42b.jpg": "/reacthero/static/media/s5.a0c5d42b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f373233.js",
+    "static/js/2.0fa38ca2.chunk.js",
+    "static/css/main.9ba547d1.chunk.css",
+    "static/js/main.a5d4bd45.chunk.js"
+  ]
+}
